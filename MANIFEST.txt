@@ -12,13 +12,13 @@ Hash: SHA512
     "http://grafana.guliangsi.fr:3000/"
   ],
   "plugin": "gdesbois-json-formatter-panel",
-  "version": "1.0.0",
-  "time": 1607806229626,
+  "version": "1.1.2",
+  "time": 1607806801939,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "LICENSE": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
     "module.js.map": "91c7b20567a0acd1050e14e1b340ddaf87d78db8732413af72db08aacf9d6785",
-    "plugin.json": "ed3b7b57a88473032cd095ea98b749818cacbfb4d966bb57565690c3c6ebd671",
+    "plugin.json": "40c4211ba07ef54a00952e485326f34a62cfc559d4d7eaa595b8a3f995d4a0d1",
     "README.md": "b2385eb54dde748f6967ea073b0a28ca0913845bca2eacdf1651d7b858c1364d",
     "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
     "module.js": "8d6b15713f9ebb961b3d746a398efe07e5c55babcbd1eb3525596741172b682f"
@@ -28,9 +28,9 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.1
 Comment: https://openpgpjs.org
 
-wqEEARMKAAYFAl/VLRUACgkQfk0ManCIZudu0gIJAavoG2Qg7tmCIKpxfJck
-KDheItu5FN7GRFmsoLHET6Vpw/i/2HGCsgHziVwydcNIMP2NrLCwPxh6gUxP
-DlwReChDAgiDkldjZeshruD9c2nW9lln5l2tczYVjqKFOArkCYqxGcdcrElI
-WPCn62nAAxoN+X7DkC8v+O1cYbgMtcCGGfUeKw==
-=cDXJ
+wqAEARMKAAYFAl/VL1IACgkQfk0ManCIZufiTAIItrcqs6BtIJJYhxmQoS8K
+7kbIB/DU1yt+WO9/it8z/OoYL3G/vd/NJ7UXqwOFLmsZHS9kJlPuAsDM6bfv
+kr0bbu0CCMmEqrsnxAvItJAl9Dy6TZc8FqvlPs32veE1gP9CYEunA7+mugCW
+i90uO492DBFzG9wCL2bYCxglugmfxYJRbpuR
+=UA7F
 -----END PGP SIGNATURE-----
