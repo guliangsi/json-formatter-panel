@@ -1,6 +1,6 @@
 {
   "type": "panel",
-  "name": "json-formatter-panel",
+  "name": "JSON Formatter",
   "id": "gdesbois-json-formatter-panel",
   "info": {
     "description": "Panel to format json",
@@ -15,12 +15,12 @@
     },
     "links": [
       {
-        "name": "Website",
-        "url": "https://github.com/grafana/simple-react-panel"
+        "name": "Project site",
+        "url": "https://github.com/guliangsi/json-formatter-panel"
       },
       {
-        "name": "License",
-        "url": "https://github.com/grafana/simple-react-panel/blob/master/LICENSE"
+        "name": "Apache License",
+        "url": "https://github.com/guliangsi/json-formatter-panel/blob/master/LICENSE"
       }
     ],
     "screenshots": [],
@@ -28,7 +28,7 @@
     "updated": "2020-12-12"
   },
   "dependencies": {
-    "grafanaVersion": "7.0.x",
+    "grafanaVersion": "7.x.x",
     "plugins": []
   }
 }

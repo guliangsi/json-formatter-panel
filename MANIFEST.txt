@@ -13,24 +13,24 @@ Hash: SHA512
   ],
   "plugin": "gdesbois-json-formatter-panel",
   "version": "1.0.0",
-  "time": 1607793287050,
+  "time": 1607806229626,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "LICENSE": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
-    "module.js.map": "b068c88c3c8c24ba893de1b86870aecd9b370047b9b5477f8de360517a115593",
-    "plugin.json": "4224a16a8f0403acf79a9074d29b505e172019b8afc93c2ec66f7ca1a6b7f6b2",
-    "README.md": "05d40e82ef89744f12cbf3d395a68bc7195ce18896ac64be65bcbf25a9b4ec03",
+    "module.js.map": "91c7b20567a0acd1050e14e1b340ddaf87d78db8732413af72db08aacf9d6785",
+    "plugin.json": "ed3b7b57a88473032cd095ea98b749818cacbfb4d966bb57565690c3c6ebd671",
+    "README.md": "b2385eb54dde748f6967ea073b0a28ca0913845bca2eacdf1651d7b858c1364d",
     "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
-    "module.js": "285dc8bbe2d69a28dff5cc35a0225fb8f0cf2cfb0ff79722cf93432011b15d79"
+    "module.js": "8d6b15713f9ebb961b3d746a398efe07e5c55babcbd1eb3525596741172b682f"
   }
 }
 -----BEGIN PGP SIGNATURE-----
 Version: OpenPGP.js v4.10.1
 Comment: https://openpgpjs.org
 
-wqIEARMKAAYFAl/U+ocACgkQfk0ManCIZueJDwIJAUJ9Ol7lRUMsiZeKg7cp
-k2ujJJbUWua4S7Xcsc5d/YCkGrt3FOTkfngYF6PPctM9kr65AGUWGbzxk94W
-r8Trnb6SAgkBFvRenlYSGAgi+7hsaXuMy627fF1rqng6QrX5a8CFbgLnWHdh
-tMe7TQ2MCvf9r9FkXvZKVTHrY8XLiGROwJAGAIo=
-=spLT
+wqEEARMKAAYFAl/VLRUACgkQfk0ManCIZudu0gIJAavoG2Qg7tmCIKpxfJck
+KDheItu5FN7GRFmsoLHET6Vpw/i/2HGCsgHziVwydcNIMP2NrLCwPxh6gUxP
+DlwReChDAgiDkldjZeshruD9c2nW9lln5l2tczYVjqKFOArkCYqxGcdcrElI
+WPCn62nAAxoN+X7DkC8v+O1cYbgMtcCGGfUeKw==
+=cDXJ
 -----END PGP SIGNATURE-----
