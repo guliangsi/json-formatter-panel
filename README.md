@@ -8,7 +8,7 @@ This panel requires configuring the name of the field to be displayed in Panel/D
 
 *Exemple of Elasticsearch query*
   
-:::image type="content" source="img/panel_query.png?raw=true" alt-text="query":::
+:::image type="content" source="img/panel_query.png" alt-text="query":::
 
 *Panel configuration under Panel/Display*
   
