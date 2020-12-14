@@ -8,18 +8,18 @@ Hash: SHA512
   "signedByOrg": "gdesbois",
   "signedByOrgName": "gdesbois",
   "rootUrls": [
-    "http://localhost:3000/",
-    "http://grafana.guliangsi.fr:3000/"
+    "http://localhost:3000/"
   ],
   "plugin": "gdesbois-json-formatter-panel",
   "version": "1.1.2",
-  "time": 1607853369752,
+  "time": 1607972660626,
   "keyId": "7e4d0c6a708866e7",
   "files": {
+    ".DS_Store": "4ceda90de094472b166d430a31dad481cb4c8bd20e30db767aa4d3ac824cd980",
     "LICENSE": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
     "module.js.map": "91c7b20567a0acd1050e14e1b340ddaf87d78db8732413af72db08aacf9d6785",
     "plugin.json": "637830a48012f1783e65f5f30d2fc9f4dc352484dcc756fa01bcfd6161ae2d61",
-    "README.md": "acbc17d992c2f13c5b970f20112b07cd7b894a212e6d23de4545472be76a876d",
+    "README.md": "e4b0b4d65fd4484c5dc09e4aaeec4d4dec542f23485b61c70b3ad995253841d1",
     "img/panel_vs_table.png": "be4abdc97597fe7ae37e745ee250a4bc13c8d0ad317de0ea4f658b414b61d611",
     "img/panel_query.png": "e506f911fb0726e9e6784beb5daca8ab43396e5f751d57e4da7eb09b5af3bff9",
     "img/panel_configuration.png": "2be6198f6fb619f4e2b4cb741d3c19d4fad3ceaaa098f9a3e62b87463910d629",
@@ -32,9 +32,9 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.1
 Comment: https://openpgpjs.org
 
-wqAEARMKAAYFAl/V5TkACgkQfk0ManCIZufLJAIHWRuZJWWyxNRpd9dwlk7/
-atUx4ouSdxjgEKeQ5SusF3Js0FUBTPKY+M2emujNU8ivZcVFZ6+l5Rnoimv3
-tILyVHQCCLQEXwiHlpwgifZ2gTRgnlg7QT52B55XwJhR7cXukhRetr5jJKAi
-r+9QepHBNwOnHGv3AH3GSFl3JJQe/sA4YMfF
-=wiA0
+wqAEARMKAAYFAl/XtzQACgkQfk0ManCIZueAPQIHd+/Da3errNoPXWy5PavC
+vjaxcGlaPmTGf+oP9r+PBtak4mnfWPYMjAmWV6fSniLQsh4V7mfcDUUh7AUX
+GDj+vHQCCKXH+FlB/x+fGyFcqRUydDGLOsuIb4jl4ScT+nODB+rkH0/akm+i
+Q0acWgu6J2C8cITtHUokEsH8mitEYtJHCWGD
+=0sM4
 -----END PGP SIGNATURE-----
