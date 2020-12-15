@@ -8,17 +8,18 @@ Hash: SHA512
   "signedByOrg": "gdesbois",
   "signedByOrgName": "gdesbois",
   "rootUrls": [
-    "http://localhost:3000/"
+    "http://localhost:3000/",
+    "http://grafana7.grafana.lb.outils-prod.cloud.maif.local/"
   ],
   "plugin": "gdesbois-json-formatter-panel",
   "version": "1.1.2",
-  "time": 1607972660626,
+  "time": 1608023961874,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     ".DS_Store": "4ceda90de094472b166d430a31dad481cb4c8bd20e30db767aa4d3ac824cd980",
     "LICENSE": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
     "module.js.map": "91c7b20567a0acd1050e14e1b340ddaf87d78db8732413af72db08aacf9d6785",
-    "plugin.json": "637830a48012f1783e65f5f30d2fc9f4dc352484dcc756fa01bcfd6161ae2d61",
+    "plugin.json": "50fc7e196f95f71f6c6691c9f471e7f2e6c8161d3ff7b7619ff5113f14668d2f",
     "README.md": "e4b0b4d65fd4484c5dc09e4aaeec4d4dec542f23485b61c70b3ad995253841d1",
     "img/panel_vs_table.png": "be4abdc97597fe7ae37e745ee250a4bc13c8d0ad317de0ea4f658b414b61d611",
     "img/panel_query.png": "e506f911fb0726e9e6784beb5daca8ab43396e5f751d57e4da7eb09b5af3bff9",
@@ -32,9 +33,9 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.1
 Comment: https://openpgpjs.org
 
-wqAEARMKAAYFAl/XtzQACgkQfk0ManCIZueAPQIHd+/Da3errNoPXWy5PavC
-vjaxcGlaPmTGf+oP9r+PBtak4mnfWPYMjAmWV6fSniLQsh4V7mfcDUUh7AUX
-GDj+vHQCCKXH+FlB/x+fGyFcqRUydDGLOsuIb4jl4ScT+nODB+rkH0/akm+i
-Q0acWgu6J2C8cITtHUokEsH8mitEYtJHCWGD
-=0sM4
+wqEEARMKAAYFAl/Yf5oACgkQfk0ManCIZuenGAIJAadVtmMHs3mK6x6/GD5B
+DlFwqS1O3YQ1AjZ8Nv0UJdGfA6jxDE2rhCAk61MkfVSWnMwA+p7wa+B+XkFw
+1mefMFsKAgiU3uspG4Q9L8rOORKZdC7s/UXEyaIHL4TtzqavJwC2Exyh8fSr
+2wYzrb5QxIoJ/9988rDaqCp7c8Rs0VIbQS6SZA==
+=/Ekk
 -----END PGP SIGNATURE-----
